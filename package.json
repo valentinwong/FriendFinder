@@ -1,0 +1,25 @@
+{
+  "name": "FriendFinder",
+  "version": "1.0.0",
+  "description": "Dating app using Express JS to handle routing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xSamuraix/FriendFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xSamuraix/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/xSamuraix/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "path": "^0.12.7"
+  }
+}
